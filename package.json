@@ -30,7 +30,7 @@
 		"lodash": "4.x.x"
 	},
 	"peerDependencies": {
-		"react-docgen": "3.0.0-beta6"
+		"react-docgen": "^2.15.0 || 3.0.0-beta6"
 	},
 	"license": "MIT"
 }
